@@ -11,3 +11,7 @@ languageCode = "en"
   github = "https://github.com/maanika"
 
   dateFormat = "January 2, 2026"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
