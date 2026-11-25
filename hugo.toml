@@ -1,5 +1,5 @@
 baseURL  = "https://maanika.github.io/"
-title    = "My Blog"
+title    = "Maanika Kenneth Koththigoda"
 theme    = "shizuka"
 languageCode = "en"
 
@@ -7,3 +7,7 @@ languageCode = "en"
   description = "A blog about software and life"
   author      = "Maanika Kenneth Koththigoda"
   tagline     = "Slow writing, clear thinking."
+
+  github = "https://github.com/maanika"
+
+  dateFormat = "January 2, 2026"
