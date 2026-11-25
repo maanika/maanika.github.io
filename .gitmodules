@@ -1,0 +1,3 @@
+[submodule "themes/shizuka"]
+	path = themes/shizuka
+	url = https://github.com/carmelolg/shizuka
